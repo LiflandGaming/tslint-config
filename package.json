@@ -1,6 +1,6 @@
 {
   "name": "@liflandgaming/tslint-config",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "tslint shared config",
   "main": "base.json",
   "scripts": {

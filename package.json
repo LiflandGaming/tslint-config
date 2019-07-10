@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/LiflandGaming/tslint-config/issues"
   },
-  "homepage": "https://github.com/LiflandGaming/tslint-config#readme"
+  "homepage": "https://github.com/LiflandGaming/tslint-config#readme",
+  "publishConfig": {
+    "registry": "https://nexus.scalebet.io/repository/npm-hosted"
+  }
 }
